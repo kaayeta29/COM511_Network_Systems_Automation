@@ -88,10 +88,6 @@ During this exercise, I encountered an error because I used a Pod name copied fr
 
 This helped me understand how to identify and troubleshoot Kubernetes resources.
 
-Screenshot 1: Nginx Deployment and Pod status using kubectl get all.
-
-Screenshot 2: Detailed Pod information using kubectl describe pod.
-
 Exercise 8.2 – Deploying a Node.js Application
 
 In the second exercise, I worked with a Kubernetes project containing a Dockerfile and YAML configuration files.
